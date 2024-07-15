@@ -1,4 +1,4 @@
-### Script: Suspicious Command Execution Monitor
+### Suspicious Command Execution Monitor
 
 #### Overview
 This PowerShell script monitors Windows Security event logs for suspicious command executions and sends an email notification if detected.
