@@ -1,7 +1,3 @@
-Certainly! Here's a simple README file that you can include with your script to explain its purpose and usage:
-
----
-
 ### Script: Suspicious Command Execution Monitor
 
 #### Overview
